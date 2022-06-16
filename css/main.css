@@ -785,3 +785,93 @@ color: #fff;
   line-height: 24px;
   text-decoration: none;
 }
+
+
+
+/* servise */
+
+
+.SV-h2-p{
+  text-align: center;
+}
+
+.SV-proposals{
+  background-color: #F4F4F4;
+}
+
+.SV-h2{
+  font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 130%;
+}
+
+
+.SV-p{
+  font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+}
+
+.SV-center{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.SV-li{
+  list-style: none;
+  width: 849px;
+  background-color: #fff;
+  height: 378px;
+  padding: 32px;
+  border-radius: 5px;
+  margin-bottom: 64px;
+}
+
+.SV-second{
+  list-style: none;
+  width: 849px;
+  background-color: #fff;
+  height: 410px;
+  padding: 32px;
+  border-radius: 5px;
+  margin-bottom: 64px;
+}
+
+
+.SV-text{
+  display: inline-block;
+  margin-left: 40px;
+}
+
+.SV-spans{
+  display: flex;
+  flex-direction: column;
+}
+
+.SV-h3{
+  font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 130%;
+}
+
+
+.span-color{
+  background-color: #00BAFC;
+  width: 12px;
+  height: 12px;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.href-text{
+  font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-decoration: none;
+color: #000;
+}
